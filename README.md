@@ -4,7 +4,7 @@
 
 ##### I'm studying computer engineering at Sakarya University.
 
-Skills: C# / C++/ C / JAVA 
+Skills: C#  Unity / C++ / C / JAVA 
  
 - 🌱 I’m currently learning Unity, C++, C# etc. 
 - 📫 How to reach me: elifkuus@gmail.com 
