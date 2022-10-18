@@ -2,7 +2,6 @@
 
 ### Game Developer
 
-##### I'm studying computer engineering at Sakarya University.
 
 Skills: C# / Unity / C++ / C / JAVA 
  
