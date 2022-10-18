@@ -5,7 +5,7 @@
 
 Skills: C# / Unity / C++ / C / JAVA 
  
-- 🌱 I’m currently learning Unity, C++, C# etc. 
+- 🌱 I’m currently learning Unity,C# etc. 
 - 📫 How to reach me: elifkuus@gmail.com 
 - ⚡ Fun fact: I love travel and take photo ♥
 
