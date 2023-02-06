@@ -3,7 +3,7 @@
 ### Game Developer
 
 
-Skills: C# / Unity / C++ / C / JAVA 
+Skills: C# / Unity / C++ / T-SQL / .NET CORE
  
 - 🌱 I’m currently learning Unity,C# etc. 
 - 📫 How to reach me: elifkuus@gmail.com 
