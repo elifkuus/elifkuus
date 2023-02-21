@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Elif
 
-### Game Developer
+### Software Developer
 
 
 Skills: C# / Unity / C++ / T-SQL / .NET CORE
