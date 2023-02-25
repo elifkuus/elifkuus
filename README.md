@@ -3,7 +3,7 @@
 ### Software Developer
 
 
-Skills: C# / Unity / C++ / T-SQL / .NET CORE
+Skills: C# / Unity / C++ / T-SQL / .NET CORE / JAVA
  
 - 🌱 I’m currently learning Unity,C# etc. 
 - 📫 How to reach me: elifkuus@gmail.com 
